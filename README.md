@@ -11,8 +11,10 @@
 
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinFerres&show_icons=true&theme=transparent&text_color=fff#gh-dark-mode-only&title_color=fff#gh-dark-mode-only&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinFerres&text_color=fff#gh-dark-mode-only&title_color=fff#gh-dark-mode-only&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AgustinFerres&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AgustinFerres&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinFerres&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinFerres&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <hr/>
 
