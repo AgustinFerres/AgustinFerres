@@ -11,7 +11,7 @@
 <hr></hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinFerres&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinFerres&text_color=fff&title_color=fff&card_width=400&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinFerres&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr></hr>
 
