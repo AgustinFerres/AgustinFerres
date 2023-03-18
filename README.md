@@ -19,4 +19,4 @@
 <hr/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Agustin_Ferres-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinferres/)](https://www.linkedin.com/in/agustinferres/)
-[![Gmail Badge](https://img.shields.io/badge/-agustinferres4403@gmail.com-d14836?style=flat&logo=gmail&logoColor=white&link=mailto:mailto:agustinferres4403@gmail.com)](mailto:agustinferres4403@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-agustinferres4403@gmail.com-d14836?style=flat&logo=gmail&logoColor=white&link=mailto:agustinferres4403@gmail.com)](mailto:agustinferres4403@gmail.com)
