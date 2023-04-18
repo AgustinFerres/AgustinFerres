@@ -11,6 +11,16 @@
 
 <hr/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,tailwind" />
+    <img src="https://skillicons.dev/icons?i=figma,docker,aws,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman,spring" />
+  </a>
+</p>
+
+<hr/>
+
 [![AgustinFerres GitHub stats-Dark](https://github-stats-agustinferres.vercel.app/api?username=AgustinFerres&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&include_all_commits=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![AgustinFerres GitHub stats-Light](https://github-stats-agustinferres.vercel.app/api?username=AgustinFerres&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs-Dark](https://github-stats-agustinferres.vercel.app/api/top-langs/?username=AgustinFerres&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
